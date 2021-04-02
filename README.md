@@ -1,4 +1,4 @@
 #Noughts and crosses
-Noughts and crosses written in pascal
+ Written in pascal
 
 First attempt at programming in pascal.
